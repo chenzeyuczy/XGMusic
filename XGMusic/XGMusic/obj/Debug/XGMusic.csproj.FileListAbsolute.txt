@@ -1,0 +1,203 @@
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\bin\Debug\App.xbf
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\bin\Debug\SecondPage.xbf
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\bin\Debug\MainPage.xbf
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\bin\Debug\Skins\MainSkin.xbf
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\bin\Debug\TestUserControl.xbf
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\bin\Debug\XGMusic.xr.xml
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\bin\Debug\XGMusic.exe
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\bin\Debug\XGMusic.pdb
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\bin\Debug\resources.pri
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\bin\Debug\AppxManifest.xml
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\bin\Debug\XGMusic.build.appxrecipe
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\bin\Debug\Microsoft.Xaml.Interactions.dll
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\bin\Debug\Microsoft.Xaml.Interactivity.dll
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\bin\Debug\GalaSoft.MvvmLight.dll
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\bin\Debug\GalaSoft.MvvmLight.pdb
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\bin\Debug\GalaSoft.MvvmLight.xml
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\bin\Debug\GalaSoft.MvvmLight.Platform.pri
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\obj\Debug\XGMusic.csprojResolveAssemblyReference.cache
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\obj\Debug\App.g.i.cs
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\obj\Debug\App.g.cs
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\obj\Debug\SecondPage.g.i.cs
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\obj\Debug\SecondPage.g.cs
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\obj\Debug\MainPage.g.i.cs
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\obj\Debug\MainPage.g.cs
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\obj\Debug\Skins\MainSkin.g.i.cs
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\obj\Debug\Skins\MainSkin.g.cs
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\obj\Debug\TestUserControl.g.i.cs
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\obj\Debug\TestUserControl.g.cs
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\obj\Debug\XamlTypeInfo.g.cs
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\obj\Debug\App.xaml
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\obj\Debug\SecondPage.xaml
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\obj\Debug\MainPage.xaml
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\obj\Debug\Skins\MainSkin.xaml
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\obj\Debug\TestUserControl.xaml
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\obj\Debug\App.xbf
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\obj\Debug\SecondPage.xbf
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\obj\Debug\MainPage.xbf
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\obj\Debug\TestUserControl.xbf
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\obj\Debug\XamlSaveStateFile.xml
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\obj\Debug\XGMusic.exe
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\obj\Debug\XGMusic.pdb
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\obj\Debug\Microsoft.Practices.ServiceLocation\en-US\Microsoft.Practices.ServiceLocation.Properties.Resources.resw
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\obj\Debug\XGMusic.csproj.GenerateResource.Cache
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\obj\Debug\Microsoft.Practices.ServiceLocation.pri
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\obj\Debug\Microsoft.Practices.ServiceLocation\qualifiers.txt
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\obj\Debug\priconfig.xml
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\obj\Debug\priconfig.xml.intermediate
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\obj\Debug\layout.resfiles
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\obj\Debug\layout.resfiles.intermediate
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\obj\Debug\resources.resfiles
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\obj\Debug\resources.resfiles.intermediate
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\obj\Debug\pri.resfiles
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\obj\Debug\pri.resfiles.intermediate
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\obj\Debug\qualifiers.txt
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\obj\Debug\qualifiers.txt.intermediate
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\obj\Debug\GalaSoft.MvvmLight.Platform.pri.xml
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\obj\Debug\ProjectArchitectures.txt
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\obj\Debug\UI\AddFavPopup.g.i.cs
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\obj\Debug\UI\AddFavPopup.g.cs
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\obj\Debug\UI\AddLibraryPopup.g.i.cs
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\obj\Debug\UI\AddLibraryPopup.g.cs
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\obj\Debug\UI\MessagePopup.g.i.cs
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\obj\Debug\UI\MessagePopup.g.cs
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\obj\Debug\UI\AddFavPopup.xaml
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\obj\Debug\UI\AddLibraryPopup.xaml
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\obj\Debug\UI\MessagePopup.xaml
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\obj\Debug\UI\AddFavPopup.xbf
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\obj\Debug\UI\AddLibraryPopup.xbf
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\obj\Debug\UI\MessagePopup.xbf
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\bin\Debug\UI\AddFavPopup.xbf
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\bin\Debug\UI\AddLibraryPopup.xbf
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\bin\Debug\UI\MessagePopup.xbf
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\obj\Debug\Skins\ControlStyles.g.i.cs
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\obj\Debug\Skins\ControlStyles.g.cs
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\obj\Debug\Skins\StandardStyles.g.i.cs
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\obj\Debug\Skins\StandardStyles.g.cs
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\bin\Debug\Skins\ControlStyles.xbf
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\bin\Debug\Skins\StandardStyles.xbf
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\obj\Debug\Skins\ControlStyles.xaml
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\obj\Debug\Skins\StandardStyles.xaml
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\obj\Debug\UI\AboutPage.g.i.cs
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\obj\Debug\UI\AboutPage.g.cs
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\obj\Debug\UI\AboutPage.xaml
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\obj\Debug\UI\AboutPage.xbf
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\bin\Debug\UI\AboutPage.xbf
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\obj\Debug\Skins\ControlStyles.xbf
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\obj\Debug\Skins\StandardStyles.xbf
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\obj\Debug\Skins\MainSkin.xbf
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\obj\Debug\Microsoft.Practices.ServiceLocation\layout.resfiles
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\obj\Debug\Microsoft.Practices.ServiceLocation\layout.resfiles.intermediate
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\obj\Debug\Microsoft.Practices.ServiceLocation\Resources.resfiles
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\obj\Debug\Microsoft.Practices.ServiceLocation\Resources.resfiles.intermediate
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\obj\Debug\Microsoft.Practices.ServiceLocation\pri.resfiles
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\obj\Debug\Microsoft.Practices.ServiceLocation\pri.resfiles.intermediate
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\obj\Debug\Microsoft.Practices.ServiceLocation\priconfig.xml
+F:\Work Project\作业\Project\XGMusic\XGMusic\XGMusic\obj\Debug\Microsoft.Practices.ServiceLocation\priconfig.xml.intermediate
+F:\XGMusic\XGMusic\XGMusic\bin\Debug\App.xbf
+F:\XGMusic\XGMusic\XGMusic\bin\Debug\SecondPage.xbf
+F:\XGMusic\XGMusic\XGMusic\bin\Debug\MainPage.xbf
+F:\XGMusic\XGMusic\XGMusic\bin\Debug\Skins\ControlStyles.xbf
+F:\XGMusic\XGMusic\XGMusic\bin\Debug\Skins\StandardStyles.xbf
+F:\XGMusic\XGMusic\XGMusic\bin\Debug\Skins\MainSkin.xbf
+F:\XGMusic\XGMusic\XGMusic\bin\Debug\TestUserControl.xbf
+F:\XGMusic\XGMusic\XGMusic\bin\Debug\UI\AboutPage.xbf
+F:\XGMusic\XGMusic\XGMusic\bin\Debug\UI\AddFavPopup.xbf
+F:\XGMusic\XGMusic\XGMusic\bin\Debug\UI\AddLibraryPopup.xbf
+F:\XGMusic\XGMusic\XGMusic\bin\Debug\UI\MessagePopup.xbf
+F:\XGMusic\XGMusic\XGMusic\bin\Debug\XGMusic.xr.xml
+F:\XGMusic\XGMusic\XGMusic\bin\Debug\XGMusic.exe
+F:\XGMusic\XGMusic\XGMusic\bin\Debug\XGMusic.pdb
+F:\XGMusic\XGMusic\XGMusic\bin\Debug\resources.pri
+F:\XGMusic\XGMusic\XGMusic\bin\Debug\AppxManifest.xml
+F:\XGMusic\XGMusic\XGMusic\bin\Debug\XGMusic.build.appxrecipe
+F:\XGMusic\XGMusic\XGMusic\bin\Debug\Microsoft.Xaml.Interactions.dll
+F:\XGMusic\XGMusic\XGMusic\bin\Debug\Microsoft.Xaml.Interactivity.dll
+F:\XGMusic\XGMusic\XGMusic\bin\Debug\GalaSoft.MvvmLight.dll
+F:\XGMusic\XGMusic\XGMusic\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+F:\XGMusic\XGMusic\XGMusic\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+F:\XGMusic\XGMusic\XGMusic\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+F:\XGMusic\XGMusic\XGMusic\bin\Debug\GalaSoft.MvvmLight.pdb
+F:\XGMusic\XGMusic\XGMusic\bin\Debug\GalaSoft.MvvmLight.xml
+F:\XGMusic\XGMusic\XGMusic\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+F:\XGMusic\XGMusic\XGMusic\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+F:\XGMusic\XGMusic\XGMusic\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+F:\XGMusic\XGMusic\XGMusic\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+F:\XGMusic\XGMusic\XGMusic\bin\Debug\GalaSoft.MvvmLight.Platform.pri
+F:\XGMusic\XGMusic\XGMusic\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+F:\XGMusic\XGMusic\XGMusic\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+F:\XGMusic\XGMusic\XGMusic\obj\Debug\App.g.i.cs
+F:\XGMusic\XGMusic\XGMusic\obj\Debug\App.g.cs
+F:\XGMusic\XGMusic\XGMusic\obj\Debug\SecondPage.g.i.cs
+F:\XGMusic\XGMusic\XGMusic\obj\Debug\SecondPage.g.cs
+F:\XGMusic\XGMusic\XGMusic\obj\Debug\MainPage.g.i.cs
+F:\XGMusic\XGMusic\XGMusic\obj\Debug\MainPage.g.cs
+F:\XGMusic\XGMusic\XGMusic\obj\Debug\Skins\ControlStyles.g.i.cs
+F:\XGMusic\XGMusic\XGMusic\obj\Debug\Skins\ControlStyles.g.cs
+F:\XGMusic\XGMusic\XGMusic\obj\Debug\Skins\StandardStyles.g.i.cs
+F:\XGMusic\XGMusic\XGMusic\obj\Debug\Skins\StandardStyles.g.cs
+F:\XGMusic\XGMusic\XGMusic\obj\Debug\Skins\MainSkin.g.i.cs
+F:\XGMusic\XGMusic\XGMusic\obj\Debug\Skins\MainSkin.g.cs
+F:\XGMusic\XGMusic\XGMusic\obj\Debug\TestUserControl.g.i.cs
+F:\XGMusic\XGMusic\XGMusic\obj\Debug\TestUserControl.g.cs
+F:\XGMusic\XGMusic\XGMusic\obj\Debug\UI\AboutPage.g.i.cs
+F:\XGMusic\XGMusic\XGMusic\obj\Debug\UI\AboutPage.g.cs
+F:\XGMusic\XGMusic\XGMusic\obj\Debug\UI\AddFavPopup.g.i.cs
+F:\XGMusic\XGMusic\XGMusic\obj\Debug\UI\AddFavPopup.g.cs
+F:\XGMusic\XGMusic\XGMusic\obj\Debug\UI\AddLibraryPopup.g.i.cs
+F:\XGMusic\XGMusic\XGMusic\obj\Debug\UI\AddLibraryPopup.g.cs
+F:\XGMusic\XGMusic\XGMusic\obj\Debug\UI\MessagePopup.g.i.cs
+F:\XGMusic\XGMusic\XGMusic\obj\Debug\UI\MessagePopup.g.cs
+F:\XGMusic\XGMusic\XGMusic\obj\Debug\XamlTypeInfo.g.cs
+F:\XGMusic\XGMusic\XGMusic\obj\Debug\App.xaml
+F:\XGMusic\XGMusic\XGMusic\obj\Debug\SecondPage.xaml
+F:\XGMusic\XGMusic\XGMusic\obj\Debug\Skins\ControlStyles.xaml
+F:\XGMusic\XGMusic\XGMusic\obj\Debug\Skins\StandardStyles.xaml
+F:\XGMusic\XGMusic\XGMusic\obj\Debug\Skins\MainSkin.xaml
+F:\XGMusic\XGMusic\XGMusic\obj\Debug\TestUserControl.xaml
+F:\XGMusic\XGMusic\XGMusic\obj\Debug\UI\AboutPage.xaml
+F:\XGMusic\XGMusic\XGMusic\obj\Debug\UI\AddFavPopup.xaml
+F:\XGMusic\XGMusic\XGMusic\obj\Debug\UI\AddLibraryPopup.xaml
+F:\XGMusic\XGMusic\XGMusic\obj\Debug\UI\MessagePopup.xaml
+F:\XGMusic\XGMusic\XGMusic\obj\Debug\App.xbf
+F:\XGMusic\XGMusic\XGMusic\obj\Debug\SecondPage.xbf
+F:\XGMusic\XGMusic\XGMusic\obj\Debug\Skins\ControlStyles.xbf
+F:\XGMusic\XGMusic\XGMusic\obj\Debug\Skins\StandardStyles.xbf
+F:\XGMusic\XGMusic\XGMusic\obj\Debug\Skins\MainSkin.xbf
+F:\XGMusic\XGMusic\XGMusic\obj\Debug\TestUserControl.xbf
+F:\XGMusic\XGMusic\XGMusic\obj\Debug\UI\AboutPage.xbf
+F:\XGMusic\XGMusic\XGMusic\obj\Debug\UI\AddFavPopup.xbf
+F:\XGMusic\XGMusic\XGMusic\obj\Debug\UI\AddLibraryPopup.xbf
+F:\XGMusic\XGMusic\XGMusic\obj\Debug\UI\MessagePopup.xbf
+F:\XGMusic\XGMusic\XGMusic\obj\Debug\XamlSaveStateFile.xml
+F:\XGMusic\XGMusic\XGMusic\obj\Debug\MainPage.xaml
+F:\XGMusic\XGMusic\XGMusic\obj\Debug\MainPage.xbf
+F:\XGMusic\XGMusic\XGMusic\obj\Debug\XGMusic.exe
+F:\XGMusic\XGMusic\XGMusic\obj\Debug\XGMusic.pdb
+F:\XGMusic\XGMusic\XGMusic\obj\Debug\Microsoft.Practices.ServiceLocation\en-US\Microsoft.Practices.ServiceLocation.Properties.Resources.resw
+F:\XGMusic\XGMusic\XGMusic\obj\Debug\XGMusic.csproj.GenerateResource.Cache
+F:\XGMusic\XGMusic\XGMusic\obj\Debug\Microsoft.Practices.ServiceLocation.pri
+F:\XGMusic\XGMusic\XGMusic\obj\Debug\Microsoft.Practices.ServiceLocation\qualifiers.txt
+F:\XGMusic\XGMusic\XGMusic\obj\Debug\priconfig.xml
+F:\XGMusic\XGMusic\XGMusic\obj\Debug\priconfig.xml.intermediate
+F:\XGMusic\XGMusic\XGMusic\obj\Debug\layout.resfiles
+F:\XGMusic\XGMusic\XGMusic\obj\Debug\layout.resfiles.intermediate
+F:\XGMusic\XGMusic\XGMusic\obj\Debug\resources.resfiles
+F:\XGMusic\XGMusic\XGMusic\obj\Debug\resources.resfiles.intermediate
+F:\XGMusic\XGMusic\XGMusic\obj\Debug\pri.resfiles
+F:\XGMusic\XGMusic\XGMusic\obj\Debug\pri.resfiles.intermediate
+F:\XGMusic\XGMusic\XGMusic\obj\Debug\qualifiers.txt
+F:\XGMusic\XGMusic\XGMusic\obj\Debug\qualifiers.txt.intermediate
+F:\XGMusic\XGMusic\XGMusic\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+F:\XGMusic\XGMusic\XGMusic\obj\Debug\GalaSoft.MvvmLight.Platform.pri.xml
+F:\XGMusic\XGMusic\XGMusic\obj\Debug\ProjectArchitectures.txt

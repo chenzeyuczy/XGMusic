@@ -1,0 +1,266 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ALIAS</Machine>
+    <WindowsUser>Reese</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>b3cbc7ac-25e8-4dda-a091-231a51997222</PackageIdentityName>
+    <IntermediateOutputPath>F:\XGMusic\XGMusic\XGMusic\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>0EFDE9A582167C42E58C9C7BAEEE84F25E87AF2DD19F02A6DA36608B67180769</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>b3cbc7ac-25e8-4dda-a091-231a51997222_1.0.0.0_neutral__8785rajwqkham</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>b3cbc7ac-25e8-4dda-a091-231a51997222_8785rajwqkham!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>b3cbc7ac-25e8-4dda-a091-231a51997222</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Laurent</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="F:\XGMusic\XGMusic\XGMusic\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-19T15:35:25.112</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="F:\XGMusic\XGMusic\XGMusic\bin\Debug\XGMusic.exe">
+      <PackagePath>XGMusic.exe</PackagePath>
+      <Modified>2015-04-19T16:03:44.171</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\BehaviorsXamlSDKManaged\12.0\References\CommonConfiguration\Neutral\Microsoft.Xaml.Interactions.dll">
+      <PackagePath>Microsoft.Xaml.Interactions.dll</PackagePath>
+      <Modified>2014-04-29T06:23:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\BehaviorsXamlSDKManaged\12.0\References\CommonConfiguration\Neutral\Microsoft.Xaml.Interactivity.dll">
+      <PackagePath>Microsoft.Xaml.Interactivity.dll</PackagePath>
+      <Modified>2014-04-29T06:23:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\XGMusic\XGMusic\packages\MvvmLightLibs.5.0.2.0\lib\netcore451\GalaSoft.MvvmLight.dll">
+      <PackagePath>GalaSoft.MvvmLight.dll</PackagePath>
+      <Modified>2015-04-12T01:36:24.078</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\XGMusic\XGMusic\packages\MvvmLightLibs.5.0.2.0\lib\netcore451\GalaSoft.MvvmLight.Extras.dll">
+      <PackagePath>GalaSoft.MvvmLight.Extras.dll</PackagePath>
+      <Modified>2015-04-12T01:36:24.095</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\XGMusic\XGMusic\packages\MvvmLightLibs.5.0.2.0\lib\netcore451\GalaSoft.MvvmLight.Platform.dll">
+      <PackagePath>GalaSoft.MvvmLight.Platform.dll</PackagePath>
+      <Modified>2015-04-12T01:36:24.118</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\XGMusic\XGMusic\packages\CommonServiceLocator.1.3\lib\portable-net4+sl5+netcore45+wpa81+wp8\Microsoft.Practices.ServiceLocation.dll">
+      <PackagePath>Microsoft.Practices.ServiceLocation.dll</PackagePath>
+      <Modified>2015-04-12T01:36:20.196</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\XGMusic\XGMusic\XGMusic\Assets\Images\Accept.png">
+      <PackagePath>Assets\Images\Accept.png</PackagePath>
+      <Modified>2012-08-26T06:33:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\XGMusic\XGMusic\XGMusic\Assets\Images\Add.png">
+      <PackagePath>Assets\Images\Add.png</PackagePath>
+      <Modified>2013-01-21T02:31:14.083</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\XGMusic\XGMusic\XGMusic\Assets\Images\Back.png">
+      <PackagePath>Assets\Images\Back.png</PackagePath>
+      <Modified>2013-01-30T09:35:58.217</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\XGMusic\XGMusic\XGMusic\Assets\Images\Decline.png">
+      <PackagePath>Assets\Images\Decline.png</PackagePath>
+      <Modified>2012-08-26T06:34:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\XGMusic\XGMusic\XGMusic\Assets\Images\Del.png">
+      <PackagePath>Assets\Images\Del.png</PackagePath>
+      <Modified>2013-01-31T14:20:54.287</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\XGMusic\XGMusic\XGMusic\Assets\Images\DelOn.png">
+      <PackagePath>Assets\Images\DelOn.png</PackagePath>
+      <Modified>2013-01-31T14:21:04.639</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\XGMusic\XGMusic\XGMusic\Assets\Images\DelPress.png">
+      <PackagePath>Assets\Images\DelPress.png</PackagePath>
+      <Modified>2013-01-31T14:21:16.431</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\XGMusic\XGMusic\XGMusic\Assets\Images\Down.png">
+      <PackagePath>Assets\Images\Down.png</PackagePath>
+      <Modified>2012-08-28T18:52:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\XGMusic\XGMusic\XGMusic\Assets\Images\Favorite.png">
+      <PackagePath>Assets\Images\Favorite.png</PackagePath>
+      <Modified>2006-06-27T11:12:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\XGMusic\XGMusic\XGMusic\Assets\Images\Gear.png">
+      <PackagePath>Assets\Images\Gear.png</PackagePath>
+      <Modified>2012-08-28T18:32:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\XGMusic\XGMusic\XGMusic\Assets\Images\Image.png">
+      <PackagePath>Assets\Images\Image.png</PackagePath>
+      <Modified>2012-08-28T18:34:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\XGMusic\XGMusic\XGMusic\Assets\Images\Music.png">
+      <PackagePath>Assets\Images\Music.png</PackagePath>
+      <Modified>2015-04-19T15:11:45.846</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\XGMusic\XGMusic\XGMusic\Assets\Images\navi_site_add.png">
+      <PackagePath>Assets\Images\navi_site_add.png</PackagePath>
+      <Modified>2013-01-21T02:31:00.136</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\XGMusic\XGMusic\XGMusic\Assets\Images\navi_site_add_ovr.png">
+      <PackagePath>Assets\Images\navi_site_add_ovr.png</PackagePath>
+      <Modified>2013-01-21T02:30:59.003</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\XGMusic\XGMusic\XGMusic\Assets\Images\Next.png">
+      <PackagePath>Assets\Images\Next.png</PackagePath>
+      <Modified>2013-01-30T09:36:20.622</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\XGMusic\XGMusic\XGMusic\Assets\Images\Pause.png">
+      <PackagePath>Assets\Images\Pause.png</PackagePath>
+      <Modified>2013-01-30T09:36:13.220</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\XGMusic\XGMusic\XGMusic\Assets\Images\Play.png">
+      <PackagePath>Assets\Images\Play.png</PackagePath>
+      <Modified>2013-01-30T09:36:06.308</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\XGMusic\XGMusic\XGMusic\Assets\Images\Playing.png">
+      <PackagePath>Assets\Images\Playing.png</PackagePath>
+      <Modified>2013-01-31T15:32:48.915</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\XGMusic\XGMusic\XGMusic\Assets\Images\Popup.png">
+      <PackagePath>Assets\Images\Popup.png</PackagePath>
+      <Modified>2013-01-29T12:42:28.877</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\XGMusic\XGMusic\XGMusic\Assets\Images\Remove.png">
+      <PackagePath>Assets\Images\Remove.png</PackagePath>
+      <Modified>2013-01-21T02:31:13.434</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\XGMusic\XGMusic\XGMusic\Assets\Images\RSS.png">
+      <PackagePath>Assets\Images\RSS.png</PackagePath>
+      <Modified>2012-08-28T18:52:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\XGMusic\XGMusic\XGMusic\Assets\Images\Search.png">
+      <PackagePath>Assets\Images\Search.png</PackagePath>
+      <Modified>2012-08-28T18:20:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\XGMusic\XGMusic\XGMusic\Assets\Images\Settings.png">
+      <PackagePath>Assets\Images\Settings.png</PackagePath>
+      <Modified>2012-08-28T18:23:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\XGMusic\XGMusic\XGMusic\Assets\Images\Stop.png">
+      <PackagePath>Assets\Images\Stop.png</PackagePath>
+      <Modified>2013-01-30T11:12:42.511</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\XGMusic\XGMusic\XGMusic\Assets\Images\Up.png">
+      <PackagePath>Assets\Images\Up.png</PackagePath>
+      <Modified>2012-08-28T18:51:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\XGMusic\XGMusic\XGMusic\Assets\Images\Volume.png">
+      <PackagePath>Assets\Images\Volume.png</PackagePath>
+      <Modified>2012-03-20T12:45:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\XGMusic\XGMusic\XGMusic\Assets\Images\Volume_Mute.png">
+      <PackagePath>Assets\Images\Volume_Mute.png</PackagePath>
+      <Modified>2012-03-20T12:45:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\XGMusic\XGMusic\XGMusic\Assets\Images\Warning.png">
+      <PackagePath>Assets\Images\Warning.png</PackagePath>
+      <Modified>2012-08-26T08:18:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\XGMusic\XGMusic\XGMusic\Assets\Information\AboutInformation.png">
+      <PackagePath>Assets\Information\AboutInformation.png</PackagePath>
+      <Modified>2015-04-18T02:49:06.991</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\XGMusic\XGMusic\XGMusic\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-12T01:36:15.673</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\XGMusic\XGMusic\XGMusic\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-12T01:36:15.701</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\XGMusic\XGMusic\XGMusic\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-12T01:36:15.703</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\XGMusic\XGMusic\XGMusic\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-12T01:36:15.705</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\XGMusic\XGMusic\XGMusic\Assets\Images\DefaultThumbnailImage.jpg">
+      <PackagePath>Assets\Images\DefaultThumbnailImage.jpg</PackagePath>
+      <Modified>2012-07-22T09:51:15.008</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\XGMusic\XGMusic\XGMusic\Assets\Images\背景4.jpg">
+      <PackagePath>Assets\Images\背景4.jpg</PackagePath>
+      <Modified>2015-04-19T14:58:33.459</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\XGMusic\XGMusic\XGMusic\Assets\Information\AboutInformation.html">
+      <PackagePath>Assets\Information\AboutInformation.html</PackagePath>
+      <Modified>2015-04-18T02:48:08.191</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\XGMusic\XGMusic\XGMusic\Assets\Sound\di.mp3">
+      <PackagePath>Assets\Sound\di.mp3</PackagePath>
+      <Modified>2015-04-18T01:02:42.982</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\XGMusic\XGMusic\XGMusic\Data\MusicLibraris.xml">
+      <PackagePath>Data\MusicLibraris.xml</PackagePath>
+      <Modified>2015-04-18T00:52:27.960</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\XGMusic\XGMusic\XGMusic\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-04-19T15:35:24.151</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\XGMusic\XGMusic\XGMusic\bin\Debug\SecondPage.xbf">
+      <PackagePath>SecondPage.xbf</PackagePath>
+      <Modified>2015-04-19T15:35:24.151</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\XGMusic\XGMusic\XGMusic\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-04-19T16:03:43.354</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\XGMusic\XGMusic\XGMusic\bin\Debug\Skins\ControlStyles.xbf">
+      <PackagePath>Skins\ControlStyles.xbf</PackagePath>
+      <Modified>2015-04-19T15:35:24.151</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\XGMusic\XGMusic\XGMusic\bin\Debug\Skins\StandardStyles.xbf">
+      <PackagePath>Skins\StandardStyles.xbf</PackagePath>
+      <Modified>2015-04-19T15:35:24.151</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\XGMusic\XGMusic\XGMusic\bin\Debug\Skins\MainSkin.xbf">
+      <PackagePath>Skins\MainSkin.xbf</PackagePath>
+      <Modified>2015-04-19T15:35:24.151</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\XGMusic\XGMusic\XGMusic\bin\Debug\TestUserControl.xbf">
+      <PackagePath>TestUserControl.xbf</PackagePath>
+      <Modified>2015-04-19T15:35:24.152</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\XGMusic\XGMusic\XGMusic\bin\Debug\UI\AboutPage.xbf">
+      <PackagePath>UI\AboutPage.xbf</PackagePath>
+      <Modified>2015-04-19T15:35:24.152</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\XGMusic\XGMusic\XGMusic\bin\Debug\UI\AddFavPopup.xbf">
+      <PackagePath>UI\AddFavPopup.xbf</PackagePath>
+      <Modified>2015-04-19T15:35:24.152</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\XGMusic\XGMusic\XGMusic\bin\Debug\UI\AddLibraryPopup.xbf">
+      <PackagePath>UI\AddLibraryPopup.xbf</PackagePath>
+      <Modified>2015-04-19T15:35:24.152</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\XGMusic\XGMusic\XGMusic\bin\Debug\UI\MessagePopup.xbf">
+      <PackagePath>UI\MessagePopup.xbf</PackagePath>
+      <Modified>2015-04-19T15:35:24.152</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\XGMusic\XGMusic\XGMusic\bin\Debug\XGMusic.xr.xml">
+      <PackagePath>XGMusic.xr.xml</PackagePath>
+      <Modified>2015-04-19T15:47:07.136</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\XGMusic\XGMusic\XGMusic\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-04-19T16:03:24.337</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
