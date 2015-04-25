@@ -15,14 +15,7 @@
             </TransitionCollection>
         </Popup.ChildTransitions>
         <Canvas Background="CadetBlue" Width="250" Height="105">
-            <ComboBox x:Name="ComboLibrary" Height="31" Width="224" Canvas.Left="16" Canvas.Top="20">
-                <ComboBox.ItemTemplate>
-                    <DataTemplate>
-                        <TextBlock Text="{Binding}" />
-                    </DataTemplate>
-                </ComboBox.ItemTemplate>
-            </ComboBox>
-            <TextBox x:Name="TxtLibraryName" FontSize="16" Height="33" Width="280" Canvas.Left="10" Canvas.Top="24" Text="新的播放列表" />
+            <TextBox x:Name="TxtLibraryName" FontSize="16" Height="33" Width="227" Canvas.Left="13" Canvas.Top="18" Text="新建播放列表" />
             <Button x:Name="BtnYes" FontSize="15" Content="确定" Canvas.Left="163" Canvas.Top="56" Height="35" Width="77" Click="BtnYes_Click_1" />
         </Canvas>
     </Popup>

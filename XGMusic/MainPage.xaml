@@ -58,8 +58,8 @@
                 <Button x:Name="BtnSaveAsThumbnail" Content="导出缩略图" Margin="184,0,-3,7" ToolTipService.ToolTip="导出缩略图"
                         VerticalAlignment="Bottom" HorizontalAlignment="Left"
                         Click="BtnSaveAsThumbnail_Click_1" FontWeight="Normal" BorderBrush="#FF69AB7A" Foreground="#FF69AB7A" Width="95" FontSize="14" Height="45" Background="{x:Null}" BorderThickness="2" Grid.Column="3" HorizontalContentAlignment="Left" Padding="4,4,12,4"/>
-                <TextBlock x:Name="LabMusicName" Grid.Row="2" Grid.Column="0"  VerticalAlignment="Top" FontSize="27" Margin="22,0,38,0" Height="42" Foreground="#FF69AB7A" FontWeight="Bold"/>
-                <TextBlock x:Name="LabMusicSinger" Grid.Row="2" Grid.Column="0"  VerticalAlignment="Top" FontSize="20" Margin="22,42,38,0" Height="24" Foreground="#FF69AB7A" />
+                <TextBlock x:Name="LabMusicName" Grid.Row="2" Grid.Column="0"  VerticalAlignment="Top" FontSize="27" Margin="22,0,38,0" Height="42" Foreground="#FF69AB7A" FontWeight="Bold" Grid.ColumnSpan="4"/>
+                <TextBlock x:Name="LabMusicSinger" Grid.Row="2" Grid.Column="0"  VerticalAlignment="Top" FontSize="20" Margin="22,42,38,0" Height="24" Foreground="#FF69AB7A" Grid.ColumnSpan="3" />
                 <ToggleButton x:Name="ButtonPlay" Grid.Row="2" Grid.Column="3" Width="180" Height="180"
                         Click="ButtonPlay_Click_1" Margin="55,0,54,0" VerticalAlignment="Bottom" 
                         HorizontalAlignment="Center" Style="{StaticResource PlayToggleButtonStyle}">
@@ -106,7 +106,7 @@
                           SelectionChanged="ComboLoopMode_SelectionChanged_1" Grid.ColumnSpan="2" Height="32">
                     <TextBlock Text="列表循环" Foreground="#FF69AB7A" />
                     <TextBlock Text="顺序播放" />
-                    <TextBlock Text="随即播放" SelectionChanged="TextBlock_SelectionChanged" />
+                    <TextBlock Text="随机播放" SelectionChanged="TextBlock_SelectionChanged" />
                     <TextBlock Text="单曲循环" />
                 </ComboBox>
                 <Grid Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="4">
