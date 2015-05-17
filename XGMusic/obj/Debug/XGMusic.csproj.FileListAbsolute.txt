@@ -201,101 +201,214 @@ F:\XGMusic\XGMusic\XGMusic\obj\Debug\qualifiers.txt.intermediate
 F:\XGMusic\XGMusic\XGMusic\obj\Debug\MultipleQualifiersPerDimensionFound.txt
 F:\XGMusic\XGMusic\XGMusic\obj\Debug\GalaSoft.MvvmLight.Platform.pri.xml
 F:\XGMusic\XGMusic\XGMusic\obj\Debug\ProjectArchitectures.txt
-D:\Program Files\cygwin\home\chenzy\project\ModernOS\XGMusic\XGMusic\bin\Debug\App.xbf
-D:\Program Files\cygwin\home\chenzy\project\ModernOS\XGMusic\XGMusic\bin\Debug\SecondPage.xbf
-D:\Program Files\cygwin\home\chenzy\project\ModernOS\XGMusic\XGMusic\bin\Debug\MainPage.xbf
-D:\Program Files\cygwin\home\chenzy\project\ModernOS\XGMusic\XGMusic\bin\Debug\Skins\ControlStyles.xbf
-D:\Program Files\cygwin\home\chenzy\project\ModernOS\XGMusic\XGMusic\bin\Debug\Skins\StandardStyles.xbf
-D:\Program Files\cygwin\home\chenzy\project\ModernOS\XGMusic\XGMusic\bin\Debug\Skins\MainSkin.xbf
-D:\Program Files\cygwin\home\chenzy\project\ModernOS\XGMusic\XGMusic\bin\Debug\TestUserControl.xbf
-D:\Program Files\cygwin\home\chenzy\project\ModernOS\XGMusic\XGMusic\bin\Debug\UI\AboutPage.xbf
-D:\Program Files\cygwin\home\chenzy\project\ModernOS\XGMusic\XGMusic\bin\Debug\UI\AddFavPopup.xbf
-D:\Program Files\cygwin\home\chenzy\project\ModernOS\XGMusic\XGMusic\bin\Debug\UI\AddLibraryPopup.xbf
-D:\Program Files\cygwin\home\chenzy\project\ModernOS\XGMusic\XGMusic\bin\Debug\UI\MessagePopup.xbf
-D:\Program Files\cygwin\home\chenzy\project\ModernOS\XGMusic\XGMusic\bin\Debug\XGMusic.xr.xml
-D:\Program Files\cygwin\home\chenzy\project\ModernOS\XGMusic\XGMusic\bin\Debug\XGMusic.exe
-D:\Program Files\cygwin\home\chenzy\project\ModernOS\XGMusic\XGMusic\bin\Debug\XGMusic.pdb
-D:\Program Files\cygwin\home\chenzy\project\ModernOS\XGMusic\XGMusic\bin\Debug\resources.pri
-D:\Program Files\cygwin\home\chenzy\project\ModernOS\XGMusic\XGMusic\bin\Debug\AppxManifest.xml
-D:\Program Files\cygwin\home\chenzy\project\ModernOS\XGMusic\XGMusic\bin\Debug\XGMusic.build.appxrecipe
-D:\Program Files\cygwin\home\chenzy\project\ModernOS\XGMusic\XGMusic\bin\Debug\Microsoft.Xaml.Interactions.dll
-D:\Program Files\cygwin\home\chenzy\project\ModernOS\XGMusic\XGMusic\bin\Debug\Microsoft.Xaml.Interactivity.dll
-D:\Program Files\cygwin\home\chenzy\project\ModernOS\XGMusic\XGMusic\bin\Debug\GalaSoft.MvvmLight.dll
-D:\Program Files\cygwin\home\chenzy\project\ModernOS\XGMusic\XGMusic\bin\Debug\GalaSoft.MvvmLight.Extras.dll
-D:\Program Files\cygwin\home\chenzy\project\ModernOS\XGMusic\XGMusic\bin\Debug\GalaSoft.MvvmLight.Platform.dll
-D:\Program Files\cygwin\home\chenzy\project\ModernOS\XGMusic\XGMusic\bin\Debug\Microsoft.Practices.ServiceLocation.dll
-D:\Program Files\cygwin\home\chenzy\project\ModernOS\XGMusic\XGMusic\bin\Debug\GalaSoft.MvvmLight.pdb
-D:\Program Files\cygwin\home\chenzy\project\ModernOS\XGMusic\XGMusic\bin\Debug\GalaSoft.MvvmLight.xml
-D:\Program Files\cygwin\home\chenzy\project\ModernOS\XGMusic\XGMusic\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
-D:\Program Files\cygwin\home\chenzy\project\ModernOS\XGMusic\XGMusic\bin\Debug\GalaSoft.MvvmLight.Extras.xml
-D:\Program Files\cygwin\home\chenzy\project\ModernOS\XGMusic\XGMusic\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
-D:\Program Files\cygwin\home\chenzy\project\ModernOS\XGMusic\XGMusic\bin\Debug\GalaSoft.MvvmLight.Platform.xml
-D:\Program Files\cygwin\home\chenzy\project\ModernOS\XGMusic\XGMusic\bin\Debug\GalaSoft.MvvmLight.Platform.pri
-D:\Program Files\cygwin\home\chenzy\project\ModernOS\XGMusic\XGMusic\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
-D:\Program Files\cygwin\home\chenzy\project\ModernOS\XGMusic\XGMusic\bin\Debug\Microsoft.Practices.ServiceLocation.xml
-D:\Program Files\cygwin\home\chenzy\project\ModernOS\XGMusic\XGMusic\obj\Debug\XGMusic.csprojResolveAssemblyReference.cache
-D:\Program Files\cygwin\home\chenzy\project\ModernOS\XGMusic\XGMusic\obj\Debug\App.g.i.cs
-D:\Program Files\cygwin\home\chenzy\project\ModernOS\XGMusic\XGMusic\obj\Debug\App.g.cs
-D:\Program Files\cygwin\home\chenzy\project\ModernOS\XGMusic\XGMusic\obj\Debug\SecondPage.g.i.cs
-D:\Program Files\cygwin\home\chenzy\project\ModernOS\XGMusic\XGMusic\obj\Debug\SecondPage.g.cs
-D:\Program Files\cygwin\home\chenzy\project\ModernOS\XGMusic\XGMusic\obj\Debug\MainPage.g.i.cs
-D:\Program Files\cygwin\home\chenzy\project\ModernOS\XGMusic\XGMusic\obj\Debug\MainPage.g.cs
-D:\Program Files\cygwin\home\chenzy\project\ModernOS\XGMusic\XGMusic\obj\Debug\Skins\ControlStyles.g.i.cs
-D:\Program Files\cygwin\home\chenzy\project\ModernOS\XGMusic\XGMusic\obj\Debug\Skins\ControlStyles.g.cs
-D:\Program Files\cygwin\home\chenzy\project\ModernOS\XGMusic\XGMusic\obj\Debug\Skins\StandardStyles.g.i.cs
-D:\Program Files\cygwin\home\chenzy\project\ModernOS\XGMusic\XGMusic\obj\Debug\Skins\StandardStyles.g.cs
-D:\Program Files\cygwin\home\chenzy\project\ModernOS\XGMusic\XGMusic\obj\Debug\Skins\MainSkin.g.i.cs
-D:\Program Files\cygwin\home\chenzy\project\ModernOS\XGMusic\XGMusic\obj\Debug\Skins\MainSkin.g.cs
-D:\Program Files\cygwin\home\chenzy\project\ModernOS\XGMusic\XGMusic\obj\Debug\TestUserControl.g.i.cs
-D:\Program Files\cygwin\home\chenzy\project\ModernOS\XGMusic\XGMusic\obj\Debug\TestUserControl.g.cs
-D:\Program Files\cygwin\home\chenzy\project\ModernOS\XGMusic\XGMusic\obj\Debug\UI\AboutPage.g.i.cs
-D:\Program Files\cygwin\home\chenzy\project\ModernOS\XGMusic\XGMusic\obj\Debug\UI\AboutPage.g.cs
-D:\Program Files\cygwin\home\chenzy\project\ModernOS\XGMusic\XGMusic\obj\Debug\UI\AddFavPopup.g.i.cs
-D:\Program Files\cygwin\home\chenzy\project\ModernOS\XGMusic\XGMusic\obj\Debug\UI\AddFavPopup.g.cs
-D:\Program Files\cygwin\home\chenzy\project\ModernOS\XGMusic\XGMusic\obj\Debug\UI\AddLibraryPopup.g.i.cs
-D:\Program Files\cygwin\home\chenzy\project\ModernOS\XGMusic\XGMusic\obj\Debug\UI\AddLibraryPopup.g.cs
-D:\Program Files\cygwin\home\chenzy\project\ModernOS\XGMusic\XGMusic\obj\Debug\UI\MessagePopup.g.i.cs
-D:\Program Files\cygwin\home\chenzy\project\ModernOS\XGMusic\XGMusic\obj\Debug\UI\MessagePopup.g.cs
-D:\Program Files\cygwin\home\chenzy\project\ModernOS\XGMusic\XGMusic\obj\Debug\XamlTypeInfo.g.cs
-D:\Program Files\cygwin\home\chenzy\project\ModernOS\XGMusic\XGMusic\obj\Debug\App.xaml
-D:\Program Files\cygwin\home\chenzy\project\ModernOS\XGMusic\XGMusic\obj\Debug\SecondPage.xaml
-D:\Program Files\cygwin\home\chenzy\project\ModernOS\XGMusic\XGMusic\obj\Debug\MainPage.xaml
-D:\Program Files\cygwin\home\chenzy\project\ModernOS\XGMusic\XGMusic\obj\Debug\Skins\ControlStyles.xaml
-D:\Program Files\cygwin\home\chenzy\project\ModernOS\XGMusic\XGMusic\obj\Debug\Skins\StandardStyles.xaml
-D:\Program Files\cygwin\home\chenzy\project\ModernOS\XGMusic\XGMusic\obj\Debug\Skins\MainSkin.xaml
-D:\Program Files\cygwin\home\chenzy\project\ModernOS\XGMusic\XGMusic\obj\Debug\TestUserControl.xaml
-D:\Program Files\cygwin\home\chenzy\project\ModernOS\XGMusic\XGMusic\obj\Debug\UI\AboutPage.xaml
-D:\Program Files\cygwin\home\chenzy\project\ModernOS\XGMusic\XGMusic\obj\Debug\UI\AddFavPopup.xaml
-D:\Program Files\cygwin\home\chenzy\project\ModernOS\XGMusic\XGMusic\obj\Debug\UI\AddLibraryPopup.xaml
-D:\Program Files\cygwin\home\chenzy\project\ModernOS\XGMusic\XGMusic\obj\Debug\UI\MessagePopup.xaml
-D:\Program Files\cygwin\home\chenzy\project\ModernOS\XGMusic\XGMusic\obj\Debug\App.xbf
-D:\Program Files\cygwin\home\chenzy\project\ModernOS\XGMusic\XGMusic\obj\Debug\SecondPage.xbf
-D:\Program Files\cygwin\home\chenzy\project\ModernOS\XGMusic\XGMusic\obj\Debug\MainPage.xbf
-D:\Program Files\cygwin\home\chenzy\project\ModernOS\XGMusic\XGMusic\obj\Debug\Skins\ControlStyles.xbf
-D:\Program Files\cygwin\home\chenzy\project\ModernOS\XGMusic\XGMusic\obj\Debug\Skins\StandardStyles.xbf
-D:\Program Files\cygwin\home\chenzy\project\ModernOS\XGMusic\XGMusic\obj\Debug\Skins\MainSkin.xbf
-D:\Program Files\cygwin\home\chenzy\project\ModernOS\XGMusic\XGMusic\obj\Debug\TestUserControl.xbf
-D:\Program Files\cygwin\home\chenzy\project\ModernOS\XGMusic\XGMusic\obj\Debug\UI\AboutPage.xbf
-D:\Program Files\cygwin\home\chenzy\project\ModernOS\XGMusic\XGMusic\obj\Debug\UI\AddFavPopup.xbf
-D:\Program Files\cygwin\home\chenzy\project\ModernOS\XGMusic\XGMusic\obj\Debug\UI\AddLibraryPopup.xbf
-D:\Program Files\cygwin\home\chenzy\project\ModernOS\XGMusic\XGMusic\obj\Debug\UI\MessagePopup.xbf
-D:\Program Files\cygwin\home\chenzy\project\ModernOS\XGMusic\XGMusic\obj\Debug\XamlSaveStateFile.xml
-D:\Program Files\cygwin\home\chenzy\project\ModernOS\XGMusic\XGMusic\obj\Debug\XGMusic.exe
-D:\Program Files\cygwin\home\chenzy\project\ModernOS\XGMusic\XGMusic\obj\Debug\XGMusic.pdb
-D:\Program Files\cygwin\home\chenzy\project\ModernOS\XGMusic\XGMusic\obj\Debug\Microsoft.Practices.ServiceLocation\en-US\Microsoft.Practices.ServiceLocation.Properties.Resources.resw
-D:\Program Files\cygwin\home\chenzy\project\ModernOS\XGMusic\XGMusic\obj\Debug\XGMusic.csproj.GenerateResource.Cache
-D:\Program Files\cygwin\home\chenzy\project\ModernOS\XGMusic\XGMusic\obj\Debug\Microsoft.Practices.ServiceLocation.pri
-D:\Program Files\cygwin\home\chenzy\project\ModernOS\XGMusic\XGMusic\obj\Debug\Microsoft.Practices.ServiceLocation\qualifiers.txt
-D:\Program Files\cygwin\home\chenzy\project\ModernOS\XGMusic\XGMusic\obj\Debug\priconfig.xml
-D:\Program Files\cygwin\home\chenzy\project\ModernOS\XGMusic\XGMusic\obj\Debug\priconfig.xml.intermediate
-D:\Program Files\cygwin\home\chenzy\project\ModernOS\XGMusic\XGMusic\obj\Debug\layout.resfiles
-D:\Program Files\cygwin\home\chenzy\project\ModernOS\XGMusic\XGMusic\obj\Debug\layout.resfiles.intermediate
-D:\Program Files\cygwin\home\chenzy\project\ModernOS\XGMusic\XGMusic\obj\Debug\resources.resfiles
-D:\Program Files\cygwin\home\chenzy\project\ModernOS\XGMusic\XGMusic\obj\Debug\resources.resfiles.intermediate
-D:\Program Files\cygwin\home\chenzy\project\ModernOS\XGMusic\XGMusic\obj\Debug\pri.resfiles
-D:\Program Files\cygwin\home\chenzy\project\ModernOS\XGMusic\XGMusic\obj\Debug\pri.resfiles.intermediate
-D:\Program Files\cygwin\home\chenzy\project\ModernOS\XGMusic\XGMusic\obj\Debug\qualifiers.txt
-D:\Program Files\cygwin\home\chenzy\project\ModernOS\XGMusic\XGMusic\obj\Debug\qualifiers.txt.intermediate
-D:\Program Files\cygwin\home\chenzy\project\ModernOS\XGMusic\XGMusic\obj\Debug\MultipleQualifiersPerDimensionFound.txt
-D:\Program Files\cygwin\home\chenzy\project\ModernOS\XGMusic\XGMusic\obj\Debug\GalaSoft.MvvmLight.Platform.pri.xml
-D:\Program Files\cygwin\home\chenzy\project\ModernOS\XGMusic\XGMusic\obj\Debug\ProjectArchitectures.txt
+F:\MusicLife\XGMusic\XGMusic\XGMusic\bin\Debug\App.xbf
+F:\MusicLife\XGMusic\XGMusic\XGMusic\bin\Debug\SecondPage.xbf
+F:\MusicLife\XGMusic\XGMusic\XGMusic\bin\Debug\MainPage.xbf
+F:\MusicLife\XGMusic\XGMusic\XGMusic\bin\Debug\Skins\ControlStyles.xbf
+F:\MusicLife\XGMusic\XGMusic\XGMusic\bin\Debug\Skins\StandardStyles.xbf
+F:\MusicLife\XGMusic\XGMusic\XGMusic\bin\Debug\Skins\MainSkin.xbf
+F:\MusicLife\XGMusic\XGMusic\XGMusic\bin\Debug\TestUserControl.xbf
+F:\MusicLife\XGMusic\XGMusic\XGMusic\bin\Debug\UI\AboutPage.xbf
+F:\MusicLife\XGMusic\XGMusic\XGMusic\bin\Debug\UI\AddFavPopup.xbf
+F:\MusicLife\XGMusic\XGMusic\XGMusic\bin\Debug\UI\AddLibraryPopup.xbf
+F:\MusicLife\XGMusic\XGMusic\XGMusic\bin\Debug\UI\MessagePopup.xbf
+F:\MusicLife\XGMusic\XGMusic\XGMusic\bin\Debug\XGMusic.xr.xml
+F:\MusicLife\XGMusic\XGMusic\XGMusic\bin\Debug\XGMusic.exe
+F:\MusicLife\XGMusic\XGMusic\XGMusic\bin\Debug\XGMusic.pdb
+F:\MusicLife\XGMusic\XGMusic\XGMusic\bin\Debug\resources.pri
+F:\MusicLife\XGMusic\XGMusic\XGMusic\bin\Debug\AppxManifest.xml
+F:\MusicLife\XGMusic\XGMusic\XGMusic\bin\Debug\XGMusic.build.appxrecipe
+F:\MusicLife\XGMusic\XGMusic\XGMusic\bin\Debug\Microsoft.Xaml.Interactions.dll
+F:\MusicLife\XGMusic\XGMusic\XGMusic\bin\Debug\Microsoft.Xaml.Interactivity.dll
+F:\MusicLife\XGMusic\XGMusic\XGMusic\bin\Debug\GalaSoft.MvvmLight.dll
+F:\MusicLife\XGMusic\XGMusic\XGMusic\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+F:\MusicLife\XGMusic\XGMusic\XGMusic\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+F:\MusicLife\XGMusic\XGMusic\XGMusic\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+F:\MusicLife\XGMusic\XGMusic\XGMusic\bin\Debug\GalaSoft.MvvmLight.pdb
+F:\MusicLife\XGMusic\XGMusic\XGMusic\bin\Debug\GalaSoft.MvvmLight.xml
+F:\MusicLife\XGMusic\XGMusic\XGMusic\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+F:\MusicLife\XGMusic\XGMusic\XGMusic\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+F:\MusicLife\XGMusic\XGMusic\XGMusic\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+F:\MusicLife\XGMusic\XGMusic\XGMusic\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+F:\MusicLife\XGMusic\XGMusic\XGMusic\bin\Debug\GalaSoft.MvvmLight.Platform.pri
+F:\MusicLife\XGMusic\XGMusic\XGMusic\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+F:\MusicLife\XGMusic\XGMusic\XGMusic\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+F:\MusicLife\XGMusic\XGMusic\XGMusic\obj\Debug\App.g.i.cs
+F:\MusicLife\XGMusic\XGMusic\XGMusic\obj\Debug\App.g.cs
+F:\MusicLife\XGMusic\XGMusic\XGMusic\obj\Debug\SecondPage.g.i.cs
+F:\MusicLife\XGMusic\XGMusic\XGMusic\obj\Debug\SecondPage.g.cs
+F:\MusicLife\XGMusic\XGMusic\XGMusic\obj\Debug\MainPage.g.i.cs
+F:\MusicLife\XGMusic\XGMusic\XGMusic\obj\Debug\MainPage.g.cs
+F:\MusicLife\XGMusic\XGMusic\XGMusic\obj\Debug\Skins\ControlStyles.g.i.cs
+F:\MusicLife\XGMusic\XGMusic\XGMusic\obj\Debug\Skins\ControlStyles.g.cs
+F:\MusicLife\XGMusic\XGMusic\XGMusic\obj\Debug\Skins\StandardStyles.g.i.cs
+F:\MusicLife\XGMusic\XGMusic\XGMusic\obj\Debug\Skins\StandardStyles.g.cs
+F:\MusicLife\XGMusic\XGMusic\XGMusic\obj\Debug\Skins\MainSkin.g.i.cs
+F:\MusicLife\XGMusic\XGMusic\XGMusic\obj\Debug\Skins\MainSkin.g.cs
+F:\MusicLife\XGMusic\XGMusic\XGMusic\obj\Debug\TestUserControl.g.i.cs
+F:\MusicLife\XGMusic\XGMusic\XGMusic\obj\Debug\TestUserControl.g.cs
+F:\MusicLife\XGMusic\XGMusic\XGMusic\obj\Debug\UI\AboutPage.g.i.cs
+F:\MusicLife\XGMusic\XGMusic\XGMusic\obj\Debug\UI\AboutPage.g.cs
+F:\MusicLife\XGMusic\XGMusic\XGMusic\obj\Debug\UI\AddFavPopup.g.i.cs
+F:\MusicLife\XGMusic\XGMusic\XGMusic\obj\Debug\UI\AddFavPopup.g.cs
+F:\MusicLife\XGMusic\XGMusic\XGMusic\obj\Debug\UI\AddLibraryPopup.g.i.cs
+F:\MusicLife\XGMusic\XGMusic\XGMusic\obj\Debug\UI\AddLibraryPopup.g.cs
+F:\MusicLife\XGMusic\XGMusic\XGMusic\obj\Debug\UI\MessagePopup.g.i.cs
+F:\MusicLife\XGMusic\XGMusic\XGMusic\obj\Debug\UI\MessagePopup.g.cs
+F:\MusicLife\XGMusic\XGMusic\XGMusic\obj\Debug\XamlTypeInfo.g.cs
+F:\MusicLife\XGMusic\XGMusic\XGMusic\obj\Debug\App.xaml
+F:\MusicLife\XGMusic\XGMusic\XGMusic\obj\Debug\SecondPage.xaml
+F:\MusicLife\XGMusic\XGMusic\XGMusic\obj\Debug\MainPage.xaml
+F:\MusicLife\XGMusic\XGMusic\XGMusic\obj\Debug\Skins\ControlStyles.xaml
+F:\MusicLife\XGMusic\XGMusic\XGMusic\obj\Debug\Skins\StandardStyles.xaml
+F:\MusicLife\XGMusic\XGMusic\XGMusic\obj\Debug\Skins\MainSkin.xaml
+F:\MusicLife\XGMusic\XGMusic\XGMusic\obj\Debug\TestUserControl.xaml
+F:\MusicLife\XGMusic\XGMusic\XGMusic\obj\Debug\UI\AboutPage.xaml
+F:\MusicLife\XGMusic\XGMusic\XGMusic\obj\Debug\UI\AddFavPopup.xaml
+F:\MusicLife\XGMusic\XGMusic\XGMusic\obj\Debug\UI\AddLibraryPopup.xaml
+F:\MusicLife\XGMusic\XGMusic\XGMusic\obj\Debug\UI\MessagePopup.xaml
+F:\MusicLife\XGMusic\XGMusic\XGMusic\obj\Debug\App.xbf
+F:\MusicLife\XGMusic\XGMusic\XGMusic\obj\Debug\SecondPage.xbf
+F:\MusicLife\XGMusic\XGMusic\XGMusic\obj\Debug\MainPage.xbf
+F:\MusicLife\XGMusic\XGMusic\XGMusic\obj\Debug\Skins\ControlStyles.xbf
+F:\MusicLife\XGMusic\XGMusic\XGMusic\obj\Debug\Skins\StandardStyles.xbf
+F:\MusicLife\XGMusic\XGMusic\XGMusic\obj\Debug\Skins\MainSkin.xbf
+F:\MusicLife\XGMusic\XGMusic\XGMusic\obj\Debug\TestUserControl.xbf
+F:\MusicLife\XGMusic\XGMusic\XGMusic\obj\Debug\UI\AboutPage.xbf
+F:\MusicLife\XGMusic\XGMusic\XGMusic\obj\Debug\UI\AddFavPopup.xbf
+F:\MusicLife\XGMusic\XGMusic\XGMusic\obj\Debug\UI\AddLibraryPopup.xbf
+F:\MusicLife\XGMusic\XGMusic\XGMusic\obj\Debug\UI\MessagePopup.xbf
+F:\MusicLife\XGMusic\XGMusic\XGMusic\obj\Debug\XamlSaveStateFile.xml
+F:\MusicLife\XGMusic\XGMusic\XGMusic\obj\Debug\XGMusic.exe
+F:\MusicLife\XGMusic\XGMusic\XGMusic\obj\Debug\XGMusic.pdb
+F:\MusicLife\XGMusic\XGMusic\XGMusic\obj\Debug\Microsoft.Practices.ServiceLocation\en-US\Microsoft.Practices.ServiceLocation.Properties.Resources.resw
+F:\MusicLife\XGMusic\XGMusic\XGMusic\obj\Debug\XGMusic.csproj.GenerateResource.Cache
+F:\MusicLife\XGMusic\XGMusic\XGMusic\obj\Debug\Microsoft.Practices.ServiceLocation\layout.resfiles
+F:\MusicLife\XGMusic\XGMusic\XGMusic\obj\Debug\Microsoft.Practices.ServiceLocation\layout.resfiles.intermediate
+F:\MusicLife\XGMusic\XGMusic\XGMusic\obj\Debug\Microsoft.Practices.ServiceLocation\Resources.resfiles
+F:\MusicLife\XGMusic\XGMusic\XGMusic\obj\Debug\Microsoft.Practices.ServiceLocation\Resources.resfiles.intermediate
+F:\MusicLife\XGMusic\XGMusic\XGMusic\obj\Debug\Microsoft.Practices.ServiceLocation\pri.resfiles
+F:\MusicLife\XGMusic\XGMusic\XGMusic\obj\Debug\Microsoft.Practices.ServiceLocation\pri.resfiles.intermediate
+F:\MusicLife\XGMusic\XGMusic\XGMusic\obj\Debug\Microsoft.Practices.ServiceLocation\priconfig.xml
+F:\MusicLife\XGMusic\XGMusic\XGMusic\obj\Debug\Microsoft.Practices.ServiceLocation\priconfig.xml.intermediate
+F:\MusicLife\XGMusic\XGMusic\XGMusic\obj\Debug\Microsoft.Practices.ServiceLocation.pri
+F:\MusicLife\XGMusic\XGMusic\XGMusic\obj\Debug\Microsoft.Practices.ServiceLocation\qualifiers.txt
+F:\MusicLife\XGMusic\XGMusic\XGMusic\obj\Debug\priconfig.xml
+F:\MusicLife\XGMusic\XGMusic\XGMusic\obj\Debug\priconfig.xml.intermediate
+F:\MusicLife\XGMusic\XGMusic\XGMusic\obj\Debug\layout.resfiles
+F:\MusicLife\XGMusic\XGMusic\XGMusic\obj\Debug\layout.resfiles.intermediate
+F:\MusicLife\XGMusic\XGMusic\XGMusic\obj\Debug\resources.resfiles
+F:\MusicLife\XGMusic\XGMusic\XGMusic\obj\Debug\resources.resfiles.intermediate
+F:\MusicLife\XGMusic\XGMusic\XGMusic\obj\Debug\pri.resfiles
+F:\MusicLife\XGMusic\XGMusic\XGMusic\obj\Debug\pri.resfiles.intermediate
+F:\MusicLife\XGMusic\XGMusic\XGMusic\obj\Debug\qualifiers.txt
+F:\MusicLife\XGMusic\XGMusic\XGMusic\obj\Debug\qualifiers.txt.intermediate
+F:\MusicLife\XGMusic\XGMusic\XGMusic\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+F:\MusicLife\XGMusic\XGMusic\XGMusic\obj\Debug\GalaSoft.MvvmLight.Platform.pri.xml
+F:\MusicLife\XGMusic\XGMusic\XGMusic\obj\Debug\ProjectArchitectures.txt
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\bin\Debug\App.xbf
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\bin\Debug\SecondPage.xbf
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\bin\Debug\MainPage.xbf
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\bin\Debug\Skins\ControlStyles.xbf
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\bin\Debug\Skins\StandardStyles.xbf
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\bin\Debug\Skins\MainSkin.xbf
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\bin\Debug\TestUserControl.xbf
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\bin\Debug\UI\AboutPage.xbf
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\bin\Debug\UI\AddFavPopup.xbf
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\bin\Debug\UI\AddLibraryPopup.xbf
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\bin\Debug\UI\MessagePopup.xbf
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\bin\Debug\XGMusic.xr.xml
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\bin\Debug\XGMusic.exe
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\bin\Debug\XGMusic.pdb
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\bin\Debug\resources.pri
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\bin\Debug\AppxManifest.xml
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\bin\Debug\XGMusic.build.appxrecipe
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\bin\Debug\Microsoft.Xaml.Interactions.dll
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\bin\Debug\Microsoft.Xaml.Interactivity.dll
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\bin\Debug\GalaSoft.MvvmLight.Platform.pri
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\obj\Debug\XGMusic.csprojResolveAssemblyReference.cache
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\obj\Debug\App.g.i.cs
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\obj\Debug\App.g.cs
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\obj\Debug\SecondPage.g.i.cs
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\obj\Debug\SecondPage.g.cs
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\obj\Debug\MainPage.g.i.cs
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\obj\Debug\MainPage.g.cs
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\obj\Debug\Skins\ControlStyles.g.i.cs
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\obj\Debug\Skins\ControlStyles.g.cs
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\obj\Debug\Skins\StandardStyles.g.i.cs
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\obj\Debug\Skins\StandardStyles.g.cs
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\obj\Debug\Skins\MainSkin.g.i.cs
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\obj\Debug\Skins\MainSkin.g.cs
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\obj\Debug\TestUserControl.g.i.cs
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\obj\Debug\TestUserControl.g.cs
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\obj\Debug\UI\AboutPage.g.i.cs
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\obj\Debug\UI\AboutPage.g.cs
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\obj\Debug\UI\AddFavPopup.g.i.cs
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\obj\Debug\UI\AddFavPopup.g.cs
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\obj\Debug\UI\AddLibraryPopup.g.i.cs
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\obj\Debug\UI\AddLibraryPopup.g.cs
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\obj\Debug\UI\MessagePopup.g.i.cs
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\obj\Debug\UI\MessagePopup.g.cs
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\obj\Debug\App.xaml
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\obj\Debug\SecondPage.xaml
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\obj\Debug\MainPage.xaml
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\obj\Debug\Skins\ControlStyles.xaml
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\obj\Debug\Skins\StandardStyles.xaml
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\obj\Debug\Skins\MainSkin.xaml
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\obj\Debug\TestUserControl.xaml
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\obj\Debug\UI\AboutPage.xaml
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\obj\Debug\UI\AddFavPopup.xaml
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\obj\Debug\UI\AddLibraryPopup.xaml
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\obj\Debug\UI\MessagePopup.xaml
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\obj\Debug\App.xbf
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\obj\Debug\SecondPage.xbf
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\obj\Debug\MainPage.xbf
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\obj\Debug\Skins\ControlStyles.xbf
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\obj\Debug\Skins\StandardStyles.xbf
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\obj\Debug\Skins\MainSkin.xbf
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\obj\Debug\TestUserControl.xbf
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\obj\Debug\UI\AboutPage.xbf
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\obj\Debug\UI\AddFavPopup.xbf
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\obj\Debug\UI\AddLibraryPopup.xbf
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\obj\Debug\UI\MessagePopup.xbf
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\obj\Debug\XamlSaveStateFile.xml
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\obj\Debug\XGMusic.exe
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\obj\Debug\XGMusic.pdb
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\obj\Debug\Microsoft.Practices.ServiceLocation\en-US\Microsoft.Practices.ServiceLocation.Properties.Resources.resw
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\obj\Debug\XGMusic.csproj.GenerateResource.Cache
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\obj\Debug\Microsoft.Practices.ServiceLocation.pri
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\obj\Debug\Microsoft.Practices.ServiceLocation\qualifiers.txt
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\obj\Debug\priconfig.xml
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\obj\Debug\priconfig.xml.intermediate
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\obj\Debug\layout.resfiles
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\obj\Debug\layout.resfiles.intermediate
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\obj\Debug\resources.resfiles
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\obj\Debug\resources.resfiles.intermediate
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\obj\Debug\pri.resfiles
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\obj\Debug\pri.resfiles.intermediate
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\obj\Debug\qualifiers.txt
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\obj\Debug\qualifiers.txt.intermediate
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\obj\Debug\GalaSoft.MvvmLight.Platform.pri.xml
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\obj\Debug\ProjectArchitectures.txt
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\obj\Debug\Microsoft.Practices.ServiceLocation\layout.resfiles
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\obj\Debug\Microsoft.Practices.ServiceLocation\layout.resfiles.intermediate
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\obj\Debug\Microsoft.Practices.ServiceLocation\Resources.resfiles
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\obj\Debug\Microsoft.Practices.ServiceLocation\Resources.resfiles.intermediate
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\obj\Debug\Microsoft.Practices.ServiceLocation\pri.resfiles
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\obj\Debug\Microsoft.Practices.ServiceLocation\pri.resfiles.intermediate
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\obj\Debug\Microsoft.Practices.ServiceLocation\priconfig.xml
+C:\Users\chenzy\Desktop\XGMusic\XGMusic\obj\Debug\Microsoft.Practices.ServiceLocation\priconfig.xml.intermediate

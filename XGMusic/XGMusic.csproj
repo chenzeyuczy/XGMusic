@@ -192,7 +192,7 @@
     <Content Include="Assets\Information\AboutInformation.png" />
     <Content Include="Assets\Logo.scale-100.png" />
     <Content Include="Assets\SmallLogo.scale-100.png" />
-    <Content Include="Assets\Sound\di.mp3" />
+    <Content Include="Assets\Sound\#SELFIE.mp3" />
     <Content Include="Assets\SplashScreen.scale-100.png" />
     <Content Include="Assets\StoreLogo.scale-100.png" />
     <Content Include="Data\MusicLibraris.xml" />

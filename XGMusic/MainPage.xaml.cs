@@ -661,7 +661,8 @@ namespace XGMusic
             MusicInfor music = (sender as Button).DataContext as MusicInfor;
             if (_musicLib.GetCurrentOne() == music)
             {
-                _musicLib.Index = -1;
+                if (_musicLib.Index>-1)
+                    _musicLib.Index = -1;
                 MusicPlayer.Stop();
                 ButtonPlay.IsChecked = false;
                 MusicPlayer.Source = null;

@@ -8,7 +8,7 @@
     <PackageArchitecture>neutral</PackageArchitecture>
     <PackageIdentityName>b3cbc7ac-25e8-4dda-a091-231a51997222</PackageIdentityName>
     <IntermediateOutputPath>D:\课程\大三下学期\现代操作系统应用开发\作业\midterm\XGMusic\XGMusic\obj\Debug\</IntermediateOutputPath>
-    <RegisteredManifestChecksum>0EFDE9A582167C42E58C9C7BAEEE84F25E87AF2DD19F02A6DA36608B67180769</RegisteredManifestChecksum>
+    <RegisteredManifestChecksum>F47467A7363F163B011F39CF898FA005D6467FB7B2F885C93DAB1A9F903CB5BB</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>b3cbc7ac-25e8-4dda-a091-231a51997222_1.0.0.0_neutral__8785rajwqkham</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>b3cbc7ac-25e8-4dda-a091-231a51997222_8785rajwqkham!App</RegisteredUserModeAppID>
     <RegisteredPackageID>b3cbc7ac-25e8-4dda-a091-231a51997222</RegisteredPackageID>
@@ -20,13 +20,13 @@
     <AppXManifest Include="D:\课程\大三下学期\现代操作系统应用开发\作业\midterm\XGMusic\XGMusic\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-04-25T18:00:50.171</Modified>
+      <Modified>2015-05-16T05:21:27.992</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\课程\大三下学期\现代操作系统应用开发\作业\midterm\XGMusic\XGMusic\bin\Debug\XGMusic.exe">
       <PackagePath>XGMusic.exe</PackagePath>
-      <Modified>2015-04-25T18:08:00.822</Modified>
+      <Modified>2015-05-17T15:17:26.627</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\BehaviorsXamlSDKManaged\12.0\References\CommonConfiguration\Neutral\Microsoft.Xaml.Interactions.dll">
       <PackagePath>Microsoft.Xaml.Interactions.dll</PackagePath>
@@ -54,143 +54,143 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\课程\大三下学期\现代操作系统应用开发\作业\midterm\XGMusic\XGMusic\Assets\Images\Accept.png">
       <PackagePath>Assets\Images\Accept.png</PackagePath>
-      <Modified>2012-08-26T06:33:58.000</Modified>
+      <Modified>2015-04-27T06:35:06.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\课程\大三下学期\现代操作系统应用开发\作业\midterm\XGMusic\XGMusic\Assets\Images\Add.png">
       <PackagePath>Assets\Images\Add.png</PackagePath>
-      <Modified>2013-01-21T02:31:16.000</Modified>
+      <Modified>2015-04-27T06:35:06.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\课程\大三下学期\现代操作系统应用开发\作业\midterm\XGMusic\XGMusic\Assets\Images\Back.png">
       <PackagePath>Assets\Images\Back.png</PackagePath>
-      <Modified>2013-01-30T09:36:00.000</Modified>
+      <Modified>2015-04-27T06:35:06.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\课程\大三下学期\现代操作系统应用开发\作业\midterm\XGMusic\XGMusic\Assets\Images\Decline.png">
       <PackagePath>Assets\Images\Decline.png</PackagePath>
-      <Modified>2012-08-26T06:34:06.000</Modified>
+      <Modified>2015-04-27T06:35:06.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\课程\大三下学期\现代操作系统应用开发\作业\midterm\XGMusic\XGMusic\Assets\Images\Del.png">
       <PackagePath>Assets\Images\Del.png</PackagePath>
-      <Modified>2013-01-31T14:20:56.000</Modified>
+      <Modified>2015-04-27T06:35:06.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\课程\大三下学期\现代操作系统应用开发\作业\midterm\XGMusic\XGMusic\Assets\Images\DelOn.png">
       <PackagePath>Assets\Images\DelOn.png</PackagePath>
-      <Modified>2013-01-31T14:21:06.000</Modified>
+      <Modified>2015-04-27T06:35:06.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\课程\大三下学期\现代操作系统应用开发\作业\midterm\XGMusic\XGMusic\Assets\Images\DelPress.png">
       <PackagePath>Assets\Images\DelPress.png</PackagePath>
-      <Modified>2013-01-31T14:21:18.000</Modified>
+      <Modified>2015-04-27T06:35:06.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\课程\大三下学期\现代操作系统应用开发\作业\midterm\XGMusic\XGMusic\Assets\Images\Down.png">
       <PackagePath>Assets\Images\Down.png</PackagePath>
-      <Modified>2012-08-28T18:52:24.000</Modified>
+      <Modified>2015-04-27T06:35:06.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\课程\大三下学期\现代操作系统应用开发\作业\midterm\XGMusic\XGMusic\Assets\Images\Favorite.png">
       <PackagePath>Assets\Images\Favorite.png</PackagePath>
-      <Modified>2006-06-27T11:12:26.000</Modified>
+      <Modified>2015-04-27T06:35:06.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\课程\大三下学期\现代操作系统应用开发\作业\midterm\XGMusic\XGMusic\Assets\Images\Gear.png">
       <PackagePath>Assets\Images\Gear.png</PackagePath>
-      <Modified>2012-08-28T18:32:48.000</Modified>
+      <Modified>2015-04-27T06:35:06.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\课程\大三下学期\现代操作系统应用开发\作业\midterm\XGMusic\XGMusic\Assets\Images\Image.png">
       <PackagePath>Assets\Images\Image.png</PackagePath>
-      <Modified>2012-08-28T18:34:32.000</Modified>
+      <Modified>2015-04-27T06:35:06.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\课程\大三下学期\现代操作系统应用开发\作业\midterm\XGMusic\XGMusic\Assets\Images\Music.png">
       <PackagePath>Assets\Images\Music.png</PackagePath>
-      <Modified>2015-04-19T15:11:46.000</Modified>
+      <Modified>2015-04-27T06:35:06.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\课程\大三下学期\现代操作系统应用开发\作业\midterm\XGMusic\XGMusic\Assets\Images\navi_site_add.png">
       <PackagePath>Assets\Images\navi_site_add.png</PackagePath>
-      <Modified>2013-01-21T02:31:02.000</Modified>
+      <Modified>2015-04-27T06:35:06.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\课程\大三下学期\现代操作系统应用开发\作业\midterm\XGMusic\XGMusic\Assets\Images\navi_site_add_ovr.png">
       <PackagePath>Assets\Images\navi_site_add_ovr.png</PackagePath>
-      <Modified>2013-01-21T02:31:00.000</Modified>
+      <Modified>2015-04-27T06:35:06.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\课程\大三下学期\现代操作系统应用开发\作业\midterm\XGMusic\XGMusic\Assets\Images\Next.png">
       <PackagePath>Assets\Images\Next.png</PackagePath>
-      <Modified>2013-01-30T09:36:22.000</Modified>
+      <Modified>2015-04-27T06:35:06.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\课程\大三下学期\现代操作系统应用开发\作业\midterm\XGMusic\XGMusic\Assets\Images\Pause.png">
       <PackagePath>Assets\Images\Pause.png</PackagePath>
-      <Modified>2013-01-30T09:36:14.000</Modified>
+      <Modified>2015-04-27T06:35:06.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\课程\大三下学期\现代操作系统应用开发\作业\midterm\XGMusic\XGMusic\Assets\Images\Play.png">
       <PackagePath>Assets\Images\Play.png</PackagePath>
-      <Modified>2013-01-30T09:36:08.000</Modified>
+      <Modified>2015-04-27T06:35:06.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\课程\大三下学期\现代操作系统应用开发\作业\midterm\XGMusic\XGMusic\Assets\Images\Playing.png">
       <PackagePath>Assets\Images\Playing.png</PackagePath>
-      <Modified>2013-01-31T15:32:50.000</Modified>
+      <Modified>2015-04-27T06:35:06.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\课程\大三下学期\现代操作系统应用开发\作业\midterm\XGMusic\XGMusic\Assets\Images\Popup.png">
       <PackagePath>Assets\Images\Popup.png</PackagePath>
-      <Modified>2013-01-29T12:42:30.000</Modified>
+      <Modified>2015-04-27T06:35:06.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\课程\大三下学期\现代操作系统应用开发\作业\midterm\XGMusic\XGMusic\Assets\Images\Remove.png">
       <PackagePath>Assets\Images\Remove.png</PackagePath>
-      <Modified>2013-01-21T02:31:14.000</Modified>
+      <Modified>2015-04-27T06:35:06.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\课程\大三下学期\现代操作系统应用开发\作业\midterm\XGMusic\XGMusic\Assets\Images\RSS.png">
       <PackagePath>Assets\Images\RSS.png</PackagePath>
-      <Modified>2012-08-28T18:52:48.000</Modified>
+      <Modified>2015-04-27T06:35:06.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\课程\大三下学期\现代操作系统应用开发\作业\midterm\XGMusic\XGMusic\Assets\Images\Search.png">
       <PackagePath>Assets\Images\Search.png</PackagePath>
-      <Modified>2012-08-28T18:20:34.000</Modified>
+      <Modified>2015-04-27T06:35:06.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\课程\大三下学期\现代操作系统应用开发\作业\midterm\XGMusic\XGMusic\Assets\Images\Settings.png">
       <PackagePath>Assets\Images\Settings.png</PackagePath>
-      <Modified>2012-08-28T18:23:52.000</Modified>
+      <Modified>2015-04-27T06:35:06.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\课程\大三下学期\现代操作系统应用开发\作业\midterm\XGMusic\XGMusic\Assets\Images\Stop.png">
       <PackagePath>Assets\Images\Stop.png</PackagePath>
-      <Modified>2013-01-30T11:12:44.000</Modified>
+      <Modified>2015-04-27T06:35:06.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\课程\大三下学期\现代操作系统应用开发\作业\midterm\XGMusic\XGMusic\Assets\Images\Up.png">
       <PackagePath>Assets\Images\Up.png</PackagePath>
-      <Modified>2012-08-28T18:51:54.000</Modified>
+      <Modified>2015-04-27T06:35:06.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\课程\大三下学期\现代操作系统应用开发\作业\midterm\XGMusic\XGMusic\Assets\Images\Volume.png">
       <PackagePath>Assets\Images\Volume.png</PackagePath>
-      <Modified>2012-03-20T12:45:04.000</Modified>
+      <Modified>2015-04-27T06:35:06.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\课程\大三下学期\现代操作系统应用开发\作业\midterm\XGMusic\XGMusic\Assets\Images\Volume_Mute.png">
       <PackagePath>Assets\Images\Volume_Mute.png</PackagePath>
-      <Modified>2012-03-20T12:45:04.000</Modified>
+      <Modified>2015-04-27T06:35:06.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\课程\大三下学期\现代操作系统应用开发\作业\midterm\XGMusic\XGMusic\Assets\Images\Warning.png">
       <PackagePath>Assets\Images\Warning.png</PackagePath>
-      <Modified>2012-08-26T08:18:40.000</Modified>
+      <Modified>2015-04-27T06:35:06.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\课程\大三下学期\现代操作系统应用开发\作业\midterm\XGMusic\XGMusic\Assets\Information\AboutInformation.png">
       <PackagePath>Assets\Information\AboutInformation.png</PackagePath>
-      <Modified>2015-04-18T02:49:08.000</Modified>
+      <Modified>2015-04-27T06:35:06.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\课程\大三下学期\现代操作系统应用开发\作业\midterm\XGMusic\XGMusic\Assets\Logo.scale-100.png">
       <PackagePath>Assets\Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-04-12T01:36:16.000</Modified>
+      <Modified>2015-04-27T06:35:06.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\课程\大三下学期\现代操作系统应用开发\作业\midterm\XGMusic\XGMusic\Assets\SmallLogo.scale-100.png">
       <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-04-12T01:36:16.000</Modified>
+      <Modified>2015-04-27T06:35:06.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\课程\大三下学期\现代操作系统应用开发\作业\midterm\XGMusic\XGMusic\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-04-12T01:36:16.000</Modified>
+      <Modified>2015-04-27T06:35:06.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\课程\大三下学期\现代操作系统应用开发\作业\midterm\XGMusic\XGMusic\Assets\StoreLogo.scale-100.png">
       <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-04-12T01:36:16.000</Modified>
+      <Modified>2015-04-27T06:35:06.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\课程\大三下学期\现代操作系统应用开发\作业\midterm\XGMusic\XGMusic\Assets\Images\DefaultThumbnailImage.jpg">
       <PackagePath>Assets\Images\DefaultThumbnailImage.jpg</PackagePath>
-      <Modified>2012-07-22T09:51:16.000</Modified>
+      <Modified>2015-05-15T10:16:52.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\课程\大三下学期\现代操作系统应用开发\作业\midterm\XGMusic\XGMusic\Assets\Images\背景4.jpg">
       <PackagePath>Assets\Images\背景4.jpg</PackagePath>
@@ -198,59 +198,59 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\课程\大三下学期\现代操作系统应用开发\作业\midterm\XGMusic\XGMusic\Assets\Information\AboutInformation.html">
       <PackagePath>Assets\Information\AboutInformation.html</PackagePath>
-      <Modified>2015-04-18T02:48:10.000</Modified>
+      <Modified>2015-04-27T06:35:06.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\课程\大三下学期\现代操作系统应用开发\作业\midterm\XGMusic\XGMusic\Assets\Sound\di.mp3">
-      <PackagePath>Assets\Sound\di.mp3</PackagePath>
-      <Modified>2015-04-18T01:02:44.000</Modified>
+    <AppxPackagedFile Include="D:\课程\大三下学期\现代操作系统应用开发\作业\midterm\XGMusic\XGMusic\Assets\Sound\#SELFIE.mp3">
+      <PackagePath>Assets\Sound\#SELFIE.mp3</PackagePath>
+      <Modified>2015-05-15T09:49:56.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\课程\大三下学期\现代操作系统应用开发\作业\midterm\XGMusic\XGMusic\Data\MusicLibraris.xml">
       <PackagePath>Data\MusicLibraris.xml</PackagePath>
-      <Modified>2015-04-18T00:52:28.000</Modified>
+      <Modified>2015-05-15T09:06:40.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\课程\大三下学期\现代操作系统应用开发\作业\midterm\XGMusic\XGMusic\bin\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2015-04-19T15:35:26.000</Modified>
+      <Modified>2015-05-15T15:29:04.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\课程\大三下学期\现代操作系统应用开发\作业\midterm\XGMusic\XGMusic\bin\Debug\SecondPage.xbf">
       <PackagePath>SecondPage.xbf</PackagePath>
-      <Modified>2015-04-19T15:35:26.000</Modified>
+      <Modified>2015-05-15T15:29:04.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\课程\大三下学期\现代操作系统应用开发\作业\midterm\XGMusic\XGMusic\bin\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2015-04-25T18:08:00.052</Modified>
+      <Modified>2015-05-15T15:29:04.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\课程\大三下学期\现代操作系统应用开发\作业\midterm\XGMusic\XGMusic\bin\Debug\Skins\ControlStyles.xbf">
       <PackagePath>Skins\ControlStyles.xbf</PackagePath>
-      <Modified>2015-04-19T15:35:26.000</Modified>
+      <Modified>2015-05-15T15:29:04.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\课程\大三下学期\现代操作系统应用开发\作业\midterm\XGMusic\XGMusic\bin\Debug\Skins\StandardStyles.xbf">
       <PackagePath>Skins\StandardStyles.xbf</PackagePath>
-      <Modified>2015-04-19T15:35:26.000</Modified>
+      <Modified>2015-05-15T15:29:04.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\课程\大三下学期\现代操作系统应用开发\作业\midterm\XGMusic\XGMusic\bin\Debug\Skins\MainSkin.xbf">
       <PackagePath>Skins\MainSkin.xbf</PackagePath>
-      <Modified>2015-04-19T15:35:26.000</Modified>
+      <Modified>2015-05-15T15:29:04.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\课程\大三下学期\现代操作系统应用开发\作业\midterm\XGMusic\XGMusic\bin\Debug\TestUserControl.xbf">
       <PackagePath>TestUserControl.xbf</PackagePath>
-      <Modified>2015-04-19T15:35:26.000</Modified>
+      <Modified>2015-05-15T15:29:04.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\课程\大三下学期\现代操作系统应用开发\作业\midterm\XGMusic\XGMusic\bin\Debug\UI\AboutPage.xbf">
       <PackagePath>UI\AboutPage.xbf</PackagePath>
-      <Modified>2015-04-19T15:35:26.000</Modified>
+      <Modified>2015-05-15T15:29:04.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\课程\大三下学期\现代操作系统应用开发\作业\midterm\XGMusic\XGMusic\bin\Debug\UI\AddFavPopup.xbf">
       <PackagePath>UI\AddFavPopup.xbf</PackagePath>
-      <Modified>2015-04-19T15:35:26.000</Modified>
+      <Modified>2015-05-15T15:29:04.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\课程\大三下学期\现代操作系统应用开发\作业\midterm\XGMusic\XGMusic\bin\Debug\UI\AddLibraryPopup.xbf">
       <PackagePath>UI\AddLibraryPopup.xbf</PackagePath>
-      <Modified>2015-04-25T18:08:00.058</Modified>
+      <Modified>2015-05-17T15:17:25.885</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\课程\大三下学期\现代操作系统应用开发\作业\midterm\XGMusic\XGMusic\bin\Debug\UI\MessagePopup.xbf">
       <PackagePath>UI\MessagePopup.xbf</PackagePath>
-      <Modified>2015-04-19T15:35:26.000</Modified>
+      <Modified>2015-05-15T15:29:04.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\课程\大三下学期\现代操作系统应用开发\作业\midterm\XGMusic\XGMusic\bin\Debug\XGMusic.xr.xml">
       <PackagePath>XGMusic.xr.xml</PackagePath>
@@ -258,7 +258,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\课程\大三下学期\现代操作系统应用开发\作业\midterm\XGMusic\XGMusic\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2015-04-25T18:06:43.334</Modified>
+      <Modified>2015-05-17T15:17:29.063</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

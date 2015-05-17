@@ -77,7 +77,8 @@ namespace XGMusic.DataConverter
 
         public void Remove(T music)
         {
-            _index--;
+            if (_index>-1)
+                _index--;
             _playList.Remove(music);
         }
         //清空播放列表
